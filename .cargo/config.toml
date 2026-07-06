@@ -1,0 +1,7 @@
+[target.x86_64-pc-windows-msvc]
+rustflags = [
+  # Control Flow Guard (CFG) — exploit azaltma
+  "-C", "link-args=/guard:cf",
+  # ASLR, DEP, SEHOP
+  "-C", "link-args=/DYNAMICBASE /NXCOMPAT /HIGHENTROPYVA",
+]
