@@ -32,7 +32,6 @@ Bu uygulama, internet servis sağlayıcılarının uyguladığı derin paket inc
 ## 🛠️ Sorun Giderme ve İpuçları
 
 * **İnternet Bağlantısı Sorunları:** Uygulama kapandıktan sonra tarayıcınızda veya YouTube gibi servislerde geçici olarak internet yok gibi görünürse, tarayıcı önbelleğinin yenilenmesi için Wi-Fi veya Ethernet bağlantınızı kapatıp açmanız yeterlidir.
-* **Güvenlik Duvarı İzinleri:** Telefonunuz veya ağdaki diğer cihazlar paylaşılan QR koduna bağlanamıyorsa, Windows Güvenlik Duvarı'nın uygulamaya yerel ağ izni verdiğinden emin olun.
 
 ---
 
